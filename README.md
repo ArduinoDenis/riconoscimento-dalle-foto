@@ -1,7 +1,16 @@
 # riconoscimento dalle foto
-oggi vediamo come far riconoscere il volto a python
 
-# Procedura
-<h3>1) installare python https://www.python.org/downloads/</h3>
-<h3>2) aprire il teminale e fare pip3 install -r requirements.txt</h3>
-<h3>3) python3 riconoscimento dalle foto.py</h3>
+### Procedura
+1. scaricare i files
+2. scaricare [Python](https://www.python.org/downloads)
+3. aprire il terminale
+
+```bash
+pip3 install -r requirements.txt
+```
+
+4. eseguiamo il file di python
+
+```bash
+python3 riconoscimento_dalle_foto.py
+```
