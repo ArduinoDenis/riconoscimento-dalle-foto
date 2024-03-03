@@ -1,29 +1,35 @@
-# riconoscimento dalle foto
+# Face Recognition from Photos
 
-### Procedura
-1. scaricare i files 
+This project involves recognizing faces from photos using Python.
 
-```bash
-git clone https://github.com/ArduinoDenis/riconoscimento-dalle-foto.git
-```
+### Procedure
+1. **Download the files**
 
-# come installare python?
-- se avete windows 10 o 11 scaricate python dal microsoft store (la procedura è tutta automatica)
-- se avete macOS scaricalo cliccando su [scarica python](https://www.python.org/downloads/macos/)  e scarica ed installa
-- se avete linux aprite un terminale e digitate
+    ```bash
+    git clone https://github.com/ArduinoDenis/riconoscimento-dalle-foto.git
+    ```
 
-* procedura per linux incluso(macOS)
-```bash
-sudo apt-get install python3 -y && sudo apt-get install python3-pip
-```
-3. installare i requisiti
+2. **Install Python**
 
-```bash
-pip3 install -r requirements.txt
-```
+    - For Windows 10 or 11 users, download Python from the Microsoft Store (the procedure is automatic).
+    - For macOS users, download Python by clicking [here](https://www.python.org/downloads/macos/) and follow the installation instructions.
+    - For Linux users, open a terminal and type the following commands:
 
-4. eseguiamo il file di python
+        ```bash
+        sudo apt-get install python3 -y
+        sudo apt-get install python3-pip
+        ```
 
-```bash
-python3 riconoscimento_dalle_foto.py
-```
+3. **Install the Requirements**
+
+    ```bash
+    pip3 install -r requirements.txt
+    ```
+
+4. **Run the Python File**
+
+    ```bash
+    python3 riconoscimento_dalle_foto.py
+    ```
+
+Follow these steps to set up and execute the face recognition from photos.
